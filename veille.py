@@ -5,6 +5,7 @@ Usage :
     python veille.py poll      # collecte + alertes immédiates (toutes les 5 min)
     python veille.py digest    # envoie le résumé quotidien
     python veille.py check     # teste toutes les sources sans rien envoyer
+    python veille.py sample    # envoie un aperçu des dernières infos
 
 Variables d'environnement : TELEGRAM_TOKEN, TELEGRAM_CHAT_ID
 Sans token, les messages sont simplement affichés (mode essai).
@@ -229,10 +230,51 @@ def poll():
     print(f"ok : {new_total} nouveaux, {pushed} alertes, {len(digest)} en attente de résumé")
 
 
+def send_chunks(blocks):
+    """Envoie des blocs de texte en respectant la limite de Telegram."""
+    chunk = ""
+    for b in blocks:
+        if chunk and len(chunk) + len(b) > 3800:
+            tg_send(chunk)
+            chunk = ""
+        chunk += b + "\n"
+    if chunk:
+        tg_send(chunk)
+
+
+def send_sample(intro):
+    """Envoie un aperçu des dernières infos, sans toucher à l'historique."""
+    results = fetch_all()
+    by_cat = {}
+    for src in cfg.SOURCES:
+        res = results[src["name"]]
+        if isinstance(res, Exception):
+            continue
+        taken = 0
+        for item in res:  # le flux est en général du plus récent au plus ancien
+            level = classify(src, item)
+            if level is None:
+                continue
+            by_cat.setdefault(src["cat"], []).append((level, src["name"], item))
+            taken += 1
+            if taken >= 2:
+                break
+    blocks = [intro]
+    for cat, entries in by_cat.items():
+        lines = [f"\n<b>{esc(cat)}</b>"]
+        for level, name, it in entries[:8]:
+            icon = "🔴" if level == "alert" else "•"
+            lines.append(f'{icon} <a href="{esc(it["link"])}">{esc(it["title"][:140])}</a> '
+                         f'<i>({esc(name)})</i>')
+        blocks.append("\n".join(lines))
+    send_chunks(blocks)
+    print("aperçu envoyé")
+
+
 def send_digest():
     queue = load(DIGEST_FILE, [])
     if not queue:
-        print("résumé vide")
+        send_sample("🧪 <b>Rien de nouveau dans la file</b>, voici un aperçu des dernières infos :")
         return
     by_cat = {}
     for it in queue:
@@ -249,14 +291,7 @@ def send_digest():
         if extra > 0:
             lines.append(f"… et {extra} autres")
         blocks.append("\n".join(lines))
-    chunk = ""
-    for b in blocks:
-        if chunk and len(chunk) + len(b) > 3800:
-            tg_send(chunk)
-            chunk = ""
-        chunk += b + "\n"
-    if chunk:
-        tg_send(chunk)
+    send_chunks(blocks)
     save(DIGEST_FILE, [])  # vidé seulement si l'envoi a réussi
     print(f"résumé envoyé ({len(queue)} infos)")
 
@@ -283,5 +318,7 @@ if __name__ == "__main__":
         send_digest()
     elif cmd == "check":
         check()
+    elif cmd == "sample":
+        send_sample("🧪 <b>Aperçu de ta veille</b> (dernières infos) :")
     else:
         sys.exit(__doc__)
