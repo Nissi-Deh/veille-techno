@@ -30,8 +30,6 @@ SOURCES = [
     {"name": "GitHub Status", "cat": "Pannes", "mode": "alert",
      "url": "https://www.githubstatus.com/history.atom"},
     # Microsoft 365 n'a pas de flux RSS public officiel : on recoupe plusieurs signaux.
-    {"name": "Outlook/M365 (Google News)", "cat": "Pannes", "mode": "filtered",
-     "url": gnews('Outlook OR "Microsoft 365" OR Teams outage when:1d', "en", "US")},
     {"name": "Outlook/M365 (Hacker News)", "cat": "Pannes", "mode": "filtered",
      "url": "https://hnrss.org/newest?q=outlook+OR+microsoft+365+OR+azure+outage"},
     {"name": "r/sysadmin", "cat": "Pannes", "mode": "filtered", "optional": True,
@@ -56,8 +54,6 @@ SOURCES = [
      "url": "https://openai.com/news/rss.xml"},
     {"name": "Hugging Face", "cat": "IA", "mode": "digest",
      "url": "https://huggingface.co/blog/feed.xml"},
-    {"name": "Hacker News (IA)", "cat": "IA", "mode": "digest",
-     "url": "https://hnrss.org/newest?q=LLM+OR+Claude+OR+GPT+OR+Gemini&points=150"},
 
     # --- Actu IT générale ---
     {"name": "Hacker News (top)", "cat": "IT général", "mode": "digest",
