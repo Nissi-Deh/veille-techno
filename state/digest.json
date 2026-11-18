@@ -1,1 +1,205 @@
-[]
+[
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR alertes",
+  "title": "[MàJ] Vulnérabilité dans Cisco Catalyst SD-WAN (25 février 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-002/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR alertes",
+  "title": "[MàJ] Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (30 janvier 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-001/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans GitLab (17 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1552/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans Juniper Networks Junos OS Evolved (17 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1551/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Tenable Identity Exposure (17 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1550/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans Axis OS (17 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1549/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans GLPI (17 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1548/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Mitel MiCollab (17 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1547/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Microsoft Edge (16 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1546/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans Citrix App Layering (16 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1545/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans MongoDB (16 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1544/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans VMware Tanzu (16 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1543/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits Trend Micro (16 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1542/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans Git (16 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1541/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+  "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+  "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+  "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "Advancing chip design with OpenAI models",
+  "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "The Silent Consensus",
+  "link": "https://openai.com/index/the-silent-consensus",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "Inside the Codex sandbox",
+  "link": "https://openai.com/index/inside-the-codex-sandbox",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+  "link": "https://huggingface.co/blog/rumble-2-flash",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+  "link": "https://huggingface.co/blog/moe-expert-streaming",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "Why your fine-tuning job takes longer than the FLOPs say",
+  "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+  "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+  "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Inside Deutsche Bank",
+  "link": "https://www.inside-db.com/",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Qluster lève 4,7 millions d’euros pour développer des ordinateurs quantiques photoniques",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/qluster-leve-4-7-millions-d-euros-pour-developper-",
+  "t": 1795028690.4617426
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "IA en entreprise : Databricks révèle l’essor des modèles ouverts et du multi-fournisseur",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/ia-en-entreprise-databricks-revele-l-essor-des-mod",
+  "t": 1795028690.4617426
+ }
+]
