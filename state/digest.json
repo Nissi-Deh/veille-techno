@@ -201,5 +201,75 @@
   "title": "IA en entreprise : Databricks révèle l’essor des modèles ouverts et du multi-fournisseur",
   "link": "https://www.lemondeinformatique.fr/donnees-ia/ia-en-entreprise-databricks-revele-l-essor-des-mod",
   "t": 1795028690.4617426
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+  "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+  "t": 1795050368.6920414
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+  "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+  "t": 1795050368.6920414
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+  "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+  "t": 1795050368.6920414
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "Managing frontier AI risk: From training to deployment",
+  "link": "https://openai.com/index/managing-frontier-ai-risk",
+  "t": 1795050368.6920414
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+  "link": "https://openai.com/business/customer-stories/sumitomo-life",
+  "t": 1795050368.6920414
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "Research acceleration: The jagged frontier",
+  "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "t": 1795050368.6920414
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "t": 1795050368.6920414
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "AI agents ask better questions than KPMG accountants in audit trial",
+  "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+  "t": 1795050368.6920414
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Seven new models at scalable price-performance",
+  "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+  "t": 1795050368.6920414
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Gemini 4 Neon",
+  "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+  "t": 1795050368.6920414
  }
 ]
