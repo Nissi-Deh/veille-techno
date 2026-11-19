@@ -1,1 +1,387 @@
-[]
+[
+ {
+  "cat": "Pannes",
+  "src": "Cloudflare Status",
+  "title": "IAD (Ashburn) on 2026-12-11",
+  "link": "https://www.cloudflarestatus.com/incidents/sbh91nsf3jdz",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "GitHub Status",
+  "title": "Degraded availability for GPT-6 Luna in Copilot",
+  "link": "https://www.githubstatus.com/incidents/gp7nhc88bwv9",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "GitHub Status",
+  "title": "Disruption with some GitHub services",
+  "link": "https://www.githubstatus.com/incidents/m310qbkfm3ww",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Microsoft's Rush to Get Back Online After a Global Outage",
+  "link": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Microsoft releases Aion 1.0 Instruct, a 2.3B on-device Windows SLM",
+  "link": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Microsoft Outlook down? So was our homepage",
+  "link": "https://bengalaviz.com/microsoft-outlook-down-so-was-our-homepage/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "MotherDuck launches on Azure after DuckLabs joins AWS",
+  "link": "https://motherduck.com/blog/motherduck-is-now-on-microsoft-azure/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "The Guys Manning Our Outage Apocalypse Do Not Seem Okay",
+  "link": "https://www.motherjones.com/politics/2026/11/digital-outages-vance-patel-dealbook-congress-appearance-cancelled-ai/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Microsoft announces Windows Server 2028 with hardened security",
+  "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Canadians impacted by Microsoft outage could soon join new class-action lawsuit",
+  "link": "https://www.blogto.com/city/2026/11/microsoft-outage-class-action-lawsuit-canada/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Microsoft kills To Do. It paid up 200M for Wunderlist, later killed it",
+  "link": "https://www.windowslatest.com/2026/11/19/microsoft-is-killing-to-do-and-telling-you-to-choose-another-app-after-it-reportedly-paid-up-to-200-million-for-wunderlist-and-killed-it-for-to-do/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Outage Chaos: When Tech Is Too Big to Fail",
+  "link": "https://www.eff.org/deeplinks/2026/11/outage-chaos-when-tech-too-big-fail",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "World Energy Outlook 2026",
+  "link": "https://www.iea.org/reports/world-energy-outlook-2026",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Microsoft is killing To Do and telling you to \"choose another\" app",
+  "link": "https://www.windowslatest.com/2026/11/19/microsoft-is-killing-to-do-and-telling-you-to-choose-another-app-after-it-reportedly-paid-up-to-200-million-for-wunderlist-and-killed-it-for-to-do/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Facility monitoring cybersecurity in Middle East is impacted by NSA outage",
+  "link": "https://www.independent.co.uk/news/world/americas/us-politics/nsa-outage-georgia-middle-east-b3088077.html",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Oracle Weblogic (18 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1565/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Oracle PeopleSoft (18 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Oracle MySQL (18 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1563/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Oracle Java SE (18 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1562/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Oracle Database Server (18 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1561/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Mozilla Firefox (18 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1560/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Google Chrome (18 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1559/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans FreeBSD (18 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1558/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Netgate pfSense (18 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1557/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits Tenable (18 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1556/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Microsoft SharePoint (17 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1555/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans OpenSSL (17 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1554/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Typo3 (17 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1553/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits Mattermost (04 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1458/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Mattermost Server (20 octobre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1344/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+  "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Microsoft confirms app installation, launch issues after hotpatch",
+  "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+  "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+  "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+  "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Five warning signs of ransomware breach before encryption or data theft",
+  "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+  "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+  "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+  "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+  "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+  "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Everything Is a Web Application, Including Your Firewall",
+  "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+  "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+  "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+  "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Garage Door Spam",
+  "link": "https://blog.harrison.page/garage-door-spam/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+  "link": "https://verialabs.com/ruby2shell/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+  "link": "https://kapteko.com/15-million-webservers/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "How the European Commission rolled out Matrix to more than 40k staff",
+  "link": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "IT général",
+  "src": "Ars Technica",
+  "title": "How to tell a cyberattack from a plain old outage",
+  "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Présidentielle 2027 : Numeum propose cinq mesures pour renforcer la souveraineté numérique française",
+  "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/presidentielle-2027-numeum-propose-cinq-mesures-pour-renforcer-la-souverainete-numerique-francaise",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Logiciel de gestion commerciale, quels critères examiner avant de choisir ?",
+  "link": "https://www.lemondeinformatique.fr/applications-developpement/logiciel-de-gestion-commerciale-quels-criteres-examiner-avant-de-choisir",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Digital Africa Index 2026: La GSMA invite les dirigeants africains à construire les réseaux et à les rendre accessibles à tous [synthèse] - Digital Business Africa",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS2VVN3lzVWc3NUpPMzBreUdUbC03cUFjc19pNXFCMUgxVDhmTTZRSF8tYVZLYndUV3ZvNUN2UWo2ZnBFN0lsTWxjR0g3X1JnclNCbllpQWZHaUhqZFVBZ3A3U0dkX1AwU0FtMFRBallZdkpqNjhabm5GaG9EalVkN25ZLU5md0pyb0hUeEg1dDF4dF9KVVNLM3l0NmNyT0RCUkppSzFtcGlKM3N1M1lSUXVuR09Ud0JKM1hfRWtnUm9CXzFiTVhpb29GNUExT1ZFNFRGSEFzQ2JQVURtWjU4M0ZaczJPQVUxX0lmS3luTHRTdkVfZ012MVdUZ0NuU2s?oc=5",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Zambie : Airtel mise sur le mobile money pour démocratiser l’investissement en Bourse - AGENCE ECOFIN",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeWtxUFlrZC1GYWRya2R6R3hObUduWWNnTGszTEZmX2VDM1YwNExXbGdZR0pRNWx4cjJoc1pLa1RHa1o1SmxTY1lncllMWk53b0hTbm1IMVpUSzNOT2t3V1JfTk11dWNsVUo1NTVOcHRvcFZsc3RPZU9pSy15VzJ6OEdJUUFiNkJVajdXY2xqSmlrTjYxeG9MN1I3M1BZMEVyOS1zS2JKM1I4WVF2MlAtdGZDQTNLaWVPNzRYbWkwSDBZS3ZjVjQ3RzZEaGhJdXE1NklUNE44eXprVWpCamc?oc=5",
+  "t": 1795109943.167826
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Wamkele Mene : « Nous devons considérer l’Afrique comme un seul et même marché numérique - Digital Business Africa",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmhBY1JxTE9GNGlGa01uUUE5NEtkVjFnMlJWa1VuTjdHblFzVTlMajVHbV8xVTRPUVMtdFJCWEVLVG15WDJYalZ4d2l4dVROYkY1MDMtd0Zodm85NEdMN3dvVUFzRm5VUEJkUXVJZ3I0UVJ5dF90Sm5JclBKdm9pdGFfNmV4T3NCU2dzZWdVbGVOMkpUNDZlN2hxVUdHdkt0anNIcVYyRzB6N1Z6djBvN1FXSW5McFpvcTJB?oc=5",
+  "t": 1795109943.167826
+ }
+]
