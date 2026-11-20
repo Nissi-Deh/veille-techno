@@ -1,1 +1,268 @@
-[]
+[
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Tenable Security Center (20 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1583/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits Citrix (20 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1582/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Moodle (20 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1581/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans PHP (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1580/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Drupal (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1579/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans les produits Elastic (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1578/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits NetApp (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1577/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits Splunk (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1576/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Wireshark (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1575/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans WordPress (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1574/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits Cisco (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1573/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans ClamAV (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1572/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Laravel (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1571/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Progress WS_FTP Server (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1570/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits Mitel (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1569/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans VMware Tanzu (19 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1568/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits F5 (18 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1567/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Oracle Virtualization (18 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1566/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+  "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+  "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+  "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+  "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "Can AI help scientists identify promising drug candidates?",
+  "link": "https://openai.com/index/introducing-medchembench",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "link": "https://openai.com/business/customer-stories/hebbia",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "Combatting adversarial distillation",
+  "link": "https://openai.com/index/combatting-adversarial-distillation",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "link": "https://huggingface.co/blog/inkling2mini",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Signal Is Serious About Protecting Your Privacy",
+  "link": "https://signal.org/blog/protecting-your-privacy/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+  "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+  "link": "https://architectlabs.com/blog/frostbite",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+  "link": "https://alpo.ge/remark.pdf",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Hurried Announcement: Alessandro Masullo GRH",
+  "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IT général",
+  "src": "Ars Technica",
+  "title": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+  "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Comment digitaliser la gestion des objets publicitaires dans les entreprises ?",
+  "link": "https://www.lemondeinformatique.fr/applications-developpement/comment-digitaliser-la-gestion-des-objets-publicitaires-dans-les-entreprises",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "GAIA Labs : des collègues IA que les entreprises gardent sous contrôle",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/gaia-labs-des-collegues-ia-que-les-entreprises-gardent-sous-controle",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Sébastien Genesca, directeur général de DEEP: “L’Europe doit se donner les moyens de faire émerger un véritable hyperscaler cloud européen”",
+  "link": "https://www.lemondeinformatique.fr/infrastructure-cloud/titre-sebastien-genesca-directeur-general-de-deep-l-europe-doit-se-donner-les-moyens-de-faire-emerger-un-veritable-hyperscaler-cloud-europeen",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Mistral AI installe à Singapour son siège Asie-Pacifique, tourné vers l’IA souveraine",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/mistral-ai-installe-a-singapour-son-siege-asie-pacifique-tourne-vers-l-ia-souveraine",
+  "t": 1795209454.4660282
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "IA au travail : l’usage fait l’adhésion, pas la confiance",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/ia-au-travail-l-usage-fait-l-adhesion-pas-la-confiance",
+  "t": 1795209454.4660282
+ }
+]
