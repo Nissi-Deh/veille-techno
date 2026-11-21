@@ -285,5 +285,19 @@
   "title": "Inkling 2 Mini",
   "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
   "t": 1795228081.5668328
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+  "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+  "t": 1795255464.755918
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+  "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+  "t": 1795255464.755918
  }
 ]
