@@ -264,5 +264,26 @@
   "title": "IA au travail : l’usage fait l’adhésion, pas la confiance",
   "link": "https://www.lemondeinformatique.fr/donnees-ia/ia-au-travail-l-usage-fait-l-adhesion-pas-la-confiance",
   "t": 1795209454.4660282
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Language Models Can Rewrite Their Own Weights",
+  "link": "https://arxiv.org/abs/2611.21885",
+  "t": 1795228081.5668328
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+  "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+  "t": 1795228081.5668328
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Inkling 2 Mini",
+  "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+  "t": 1795228081.5668328
  }
 ]
