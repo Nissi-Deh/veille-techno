@@ -103,5 +103,26 @@
   "title": "Lean verification of the Riemann Hypothesis",
   "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
   "t": 1795299307.9847972
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+  "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+  "t": 1795313802.4612746
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+  "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+  "t": 1795313802.4612746
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Inkling-2-Mini in 5.4 GB Memory",
+  "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+  "t": 1795313802.4612746
  }
 ]
