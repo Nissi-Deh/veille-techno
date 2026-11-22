@@ -124,5 +124,47 @@
   "title": "Inkling-2-Mini in 5.4 GB Memory",
   "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
   "t": 1795313802.4612746
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+  "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+  "t": 1795341225.9940991
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "TeamsCache – Read Local Microsoft Teams Messages via CLI or MCP",
+  "link": "https://github.com/stn1slv/teamscache",
+  "t": 1795341225.9940991
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+  "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+  "t": 1795341225.9940991
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+  "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+  "t": 1795341225.9940991
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+  "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+  "t": 1795341225.9940991
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Forum du livre numérique et audio en Afrique francophone - Institut français",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmQ3R2Y1LVlvLXN6N2hJcVd1c0JPQ1RHbm5wUjhkN0IweE5OVXRValE4NVc1S0J1ZGwtZzE4cC1HbnpMQXZ3OGhRRDJNT0ltU2xLU2tsNmJPZUFHS1pvZHVwTVNuelJNZGczRXgzYy00S2M5dGFYZi1tdHVhbTBhM1UwWldVelFDdzFQN1ZSNmpvRnJZeWo2MW4wZ2c?oc=5",
+  "t": 1795341225.9940991
  }
 ]
