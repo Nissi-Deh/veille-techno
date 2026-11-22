@@ -26,5 +26,26 @@
   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
   "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
   "t": 1795368517.8834302
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+  "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+  "t": 1795387316.5475254
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "Perplexity and Intelligence",
+  "link": "https://openai.com/index/perplexity-and-intelligence",
+  "t": 1795387316.5475254
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Perplexity and Intelligence",
+  "link": "https://openai.com/index/perplexity-and-intelligence/",
+  "t": 1795387316.5475254
  }
 ]
