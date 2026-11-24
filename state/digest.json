@@ -1,1 +1,275 @@
-[]
+[
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans SPIP (23 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1599/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans KeyCloak (20 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1586/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits VMware (20 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1598/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits IBM (20 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1597/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (20 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1596/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (20 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1595/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans le noyau Linux de Debian (20 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1594/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+  "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+  "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+  "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Hackers compromise Check Point Servers in 22 organizations",
+  "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "European Commission confirms data theft in EU Academy breach",
+  "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+  "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Radware discloses breach exposing customer cloud access keys",
+  "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+  "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "New Inception extortion gang launches large-scale vishing campaign",
+  "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+  "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+  "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+  "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+  "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+  "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+  "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "How iFood scales coding agents across 15,000 repositories",
+  "link": "https://openai.com/business/customer-stories/ifood",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "How Intentful uses dots to make more time for growth",
+  "link": "https://openai.com/business/customer-stories/intentful-dots",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "IA",
+  "src": "OpenAI",
+  "title": "Searching for distant planets with Astra",
+  "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+  "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+  "link": "https://github.com/ItsNotRexed/Leonida/issues",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "2035 came early",
+  "link": "https://fzakaria.com/2026/11/23/2035-came-early",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "LLM agents work for their parent companies, not for you",
+  "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Puces IA : Washington place Megaspeed et une filiale d'Alibaba sur liste noire",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/puces-ia-washington-place-megaspeed-et-une-filiale-d-alibaba-sur-liste-noire",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "ISAGRI déploie Claude auprès de ses 3 300 collaborateurs",
+  "link": "https://www.lemondeinformatique.fr/applications-developpement/isagri-deploie-claude-aupres-de-ses-3-300-collaborateurs",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "IA et Cybersécurité : les entreprises contraintes de revoir leur priorités",
+  "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/la-bataille-des-priorites-dans-les-budgets-it",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Cybersécurité : des failles Bluetooth permettent de contrôler à distance les freins de remorques",
+  "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-des-failles-bluetooth-permettent-de-controler-a-distance-les-freins-de-remorques",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Free intègre la traduction des appels téléphoniques à son réseau mobile",
+  "link": "https://www.lemondeinformatique.fr/applications-developpement/free-integre-la-traduction-des-appels-telephoniques-a-son-reseau-mobile",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Inclusion numérique : la Sierra Leone envisage l’assemblage local de smartphones - AGENCE ECOFIN",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaml1c1oxSXBxUXY1Rm43SnJrRFlUWkRGT1MxTGpkb1R0cXRjbWhCV0RVLVgyVlRpcUtQRWU1NEVHN1RGMDVuU2plYUpDNU5jLUd2TFNmeUI4R2h6QmRpUVRFTU5HSHZNSFZyd1Q1YUt1MkMzYzRIUnN1WThGZ09NWDFoeFdPYmxLVVU5c2puT2F2RF9RTjF1VTcxMmd1dUNlUkZXdHpHWUNJMmJEb1BvMExxZWJYN3ZVNUg2NXJQRzl2bng0TWJ6LTlWUjJLUnVoZFhLbUhEbw?oc=5",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Burkina Faso : 37 milliards de FCFA et 10 mois pour bâtir l'Académie technologique du Faso \"sans crédit\" - Digital Business Africa",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLUtkQ0dXdF9HMDNGcm9YR19peFFnSkd3WWt3VU1UM0kyc21iRXYtTll5ZEtvbUNDdno1aWhoc2FJNElnOFpXSzMtUi1PRllDU0l5NUpvdVdZTDAyVEJKWUxoMXdiSmtsVXBQR19xQVJNTFpPWVJycWZ0eFhzQ29GSGhjY2JJeU5lQnNqNS1WaFMxSFhveEVFcjd5U2JFMUNPWU5ycy1NdVJGLUc4cV9ZYS1yUTUxNTNOQjItdVJBYUVzNEVOZmRRU1A3QXg1MFdz?oc=5",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "RD Congo : Intox sur le supposé robot congolais présenté à Félix Tshisekedi - Digital Business Africa",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnUwVkJrRElvZlVQd1d5T1Z4X0I0R2tZM2xqekxLWVppVUtZSWJrenM2YmxXb0lJcnJPaFM2Q3ltc0o4WFA4VmNtTmhDaTJjanRMV1JueU5vUmZ0UThuUVU3Q0kzZUdFNmFIS05yU0h0Y0RXNk1sMzB2eVpSVkdLZDJoOXVnT0RmYUN3RkRFUzU4NGtjQ1VOUFhZS2FlUG53Vl9aVXdqZlZ1MDFkSUE?oc=5",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Cameroun : Francis Ngannou annoncé au SAFINUM 2026 pour parler d’entrepreneuriat et d’investissement - Digital Business Africa",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ2hiLVRCdmtRa3cxWERacHhaWjFZWDB4MVpMU3BObGNXeXc0dlltRjZ3QXczb0RvNm1mWE0zbUlGdnl3UFBFR3liaWhfQXB4UWpyM1F1N0taOUFNOGFlTzZqbUhPTVBNc3R5blE3cktfbW9sc0NuRHdRc1NLY2hmOGsyalJVT1ZKNjYxazhCb2JRN3BGd2x5MmJQUzhDZzdzQ2FQTUs3RkFTeUhxRVYzM3V1TXFJcDVmcDZFUTVzTzR5MlY3cHNKbHJPVnA?oc=5",
+  "t": 1795551822.1905909
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Taxe numérique camerounaise : Apple la répercute sur les développeurs - Africtelegraph",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUY2RldIN2lMZWVPZ29hQVZnMFZ5cVBCNmhKNEh5d2F2MEI1bHJHd3YtT09lS19RREYwMHFnbnBEcVhlVDhpSTVVc0daRzY1bmZ5bERKTktINWxQdmMycHBTTlp6czYtVWQxX003SjI0WWNweGZoX0hmckFkMWRNNnVIZEpSc0QwN1JtNjRjSkZsTnEyQXJ2TVpSVV9LbkNKc0E?oc=5",
+  "t": 1795551822.1905909
+ }
+]
