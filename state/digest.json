@@ -320,5 +320,271 @@
   "title": "Ternary Bonsai 2.5 27B",
   "link": "https://prismml.com/news/bonsai-2-5-27b",
   "t": 1795577810.9840279
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Important security notification regarding your Microsoft Entra tenant",
+  "link": "https://old.reddit.com/r/sysadmin/comments/1y1of2u/important_security_notification_regarding/",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Norway links energy firm cyberattacks to critical Azure API Management flaw",
+  "link": "https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Post Incident Report for Microsoft 365 [pdf]",
+  "link": "https://www.365fanatic.com/wp-content/uploads/2026/11/postincidentreport-mo1550821.pdf",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "All or nothing: distributed transactions in Azure Cosmos DB",
+  "link": "https://devblogs.microsoft.com/cosmosdb/all-or-nothing-distributed-transactions-in-azure-cosmos-db/",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "MailsDaddy PST to Office 365 Migration",
+  "link": "https://www.mailsdaddy.com/pst-to-office-365-migration-tool/",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Azure Chaos Studio",
+  "link": "https://learn.microsoft.com/en-us/azure/chaos-studio/chaos-studio-overview",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Hackers reportedly breached CIA intelligence analysis system",
+  "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Microsoft confirms authentication issues after November updates",
+  "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+  "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+  "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+  "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+  "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+  "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+  "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+  "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+  "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+  "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+  "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+  "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "An Indic Voice Agent with CUGA",
+  "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+  "link": "https://news.ycombinator.com/item?id=50630809",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+  "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+  "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+  "link": "https://buttons.joshwcomeau.com/",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Anthropic lance Claude Ship pour automatiser la revue et la validation du code",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/anthropic-lance-claude-ship-pour-automatiser-la-revue-et-la-validation-du-code",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Collectivités territoriales : la cybersécurité passe par la mutualisation des moyens",
+  "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/collectivites-territoriales-la-cybersecurite-passe-par-la-mutualisation-des-moyens",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Cyberattaque contre Ipsos : le groupe Qilin revendique un vol de données sensibles",
+  "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-ipsos-le-groupe-qilin-revendique-un-vol-de-donnees-sensibles",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Microsoft déclenche un « Code Red » après une panne majeure de Microsoft 365",
+  "link": "https://www.lemondeinformatique.fr/applications-developpement/microsoft-declenche-un-code-red-apres-une-panne-majeure-de-microsoft-365",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Cyberattaques dopées à l’IA : IBM appelle les entreprises à anticiper les défaillances",
+  "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaques-dopees-a-l-ia-ibm-appelle-les-entreprises-a-anticiper-les-defaillances",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "SpaceX-Tesla : cinq administrateurs négocient une fusion potentielle à 3 500 milliards de dollars",
+  "link": "https://www.lemondeinformatique.fr/it-direction/spacex-tesla-cinq-administrateurs-negocient-une-fusion-potentielle-a-3-500-milliards-de-dollars",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Oracle envisage jusqu’à 1 390 suppressions de postes supplémentaires en Europe",
+  "link": "https://www.lemondeinformatique.fr/it-direction/oracle-envisage-jusqu-a-1-390-suppressions-de-postes-supplementaires-en-europe",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Trois cofondateurs de xAI lancent Epochal, une start-up spécialisée dans l’IA prédictive",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/trois-cofondateurs-de-xai-lancent-epochal-une-start-up-specialisee-dans-l-ia-predictive",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Quantum Act : l’UE veut soutenir son industrie quantique avec un fonds souverain",
+  "link": "https://www.lemondeinformatique.fr/it-direction/quantum-act-l-ue-veut-soutenir-son-industrie-quantique-avec-un-fonds-souverain",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "L'IA générative risque d'amplifier l'infobésité au travail",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/l-ia-generative-risque-d-amplifier-l-infobesite-au-travail",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Yann LeCun accuse le patron d’Anthropic de vouloir freiner les modèles d’IA ouverts",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/yann-lecun-accuse-le-patron-d-anthropic-de-vouloir-freiner-les-modeles-d-ia-ouverts",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Entreprises africaines : de la simple connexion aux outils métiers - AGENCE ECOFIN",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM25Fd04xVlpmTlJXNFBGV01kQ3RsTUpoU0Q2dExsZmhDX2dvNXBGek9CbHFTRDI5dGZJMGN6Wnhrd2pud2FjWFFzeXpjUUc2UGxfdTdJNkVoeE96YThncnlMSjBmdDVQUkZRTG03SnlsUnpIV2xnbF9EY0dUUmdtemRFeFZJV0ZTZUVnek9pWFItVjZRYnBZdXBmclhIRi1yWE1BUzhCREVuVURjRjNnU09PV2hyT1Y0SjQ4aTlOTzlvTlI0?oc=5",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "« Le principal concurrent du paiement numérique, ce n'est ni le mobile money ni la carte, c'est le cash », Ismahill Diaby (Visa) - AGENCE ECOFIN",
+  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObk9tVTVsUzlvRFlsYTlLb2VfYWw0QmthMjhkVmNkYi1BQ2FURndNbGgwQWlwTlFTRlY1RWhPbllyN2tYSGxCTEh0Zy1jMW4xcGNBLXI5azdwb2pUNGFlN05tajFNRVZIMmt4dV9lV2daZTNRVmMwajBwX0xZYkVUVmxpa1VGcmI4U0Naa0w4RW9MeThkaGxHbmdVZVNnM2MwemNuOXp1Rk9ZY1BiTXVib0ZqTU1LaDhYbkQzQUlvUHg5TWlOMVY1MHRBak5GS2dNa3AzQ2RzS3NpUnZrcHQ3a1k0ODdKLW01X1FkZWRoa25VajllY3VTbHZrZThHUQ?oc=5",
+  "t": 1795613351.0219934
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Télécoms : le Canadien NuRAN s'associe à Orange Cameroun pour déployer la 4G en zone rurale - EcoMatin",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSjNjcS1VaktqbVZlaUpKdExUd1M3U1VxaVViSm1qUTd2MDhvU3QzbVkxLUJLd3VWYXdNQ1NCcDB3RmptZXdNaldoaUFIVVJJMVJ3ZzRpdW1IOGNqOEpfU2k2NUlpRkxubmJPUGpGY3Y5T0NQeU5zRUdKNlJPMDEzSWl5aU8tZzR0SnRpaVBCWV92MW0zakt2SmJaUF9tY1pCdU53TzQwb3BkbEtKN3c?oc=5",
+  "t": 1795613351.0219934
  }
 ]
