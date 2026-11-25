@@ -1,1 +1,310 @@
-[]
+[
+ {
+  "cat": "Pannes",
+  "src": "Cloudflare Status",
+  "title": "KHI (Karachi) on 2026-12-08",
+  "link": "https://www.cloudflarestatus.com/incidents/3k7ijg4z6ty5",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Pannes",
+  "src": "Cloudflare Status",
+  "title": "KTM (Kathmandu) on 2026-12-08",
+  "link": "https://www.cloudflarestatus.com/incidents/hrssufmasujc",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Pannes",
+  "src": "Cloudflare Status",
+  "title": "PDX (Portland) on 2026-12-09",
+  "link": "https://www.cloudflarestatus.com/incidents/xu5657wleor7",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Pannes",
+  "src": "Cloudflare Status",
+  "title": "PDX (Portland) on 2026-12-09",
+  "link": "https://www.cloudflarestatus.com/incidents/jt0fefjiq23a",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Pannes",
+  "src": "Cloudflare Status",
+  "title": "BKK (Bangkok) on 2026-12-09",
+  "link": "https://www.cloudflarestatus.com/incidents/lx53q2alptf9",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Pannes",
+  "src": "Cloudflare Status",
+  "title": "CMB (Colombo) on 2026-12-09",
+  "link": "https://www.cloudflarestatus.com/incidents/7alxzcbalw3s",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Pannes",
+  "src": "GitHub Status",
+  "title": "Investigating degraded experiences across GitHub products",
+  "link": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CISA KEV",
+  "title": "CVE-2026-133323 : Mitel MiCollab, Mitel MiCollab OS Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133323",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CISA KEV",
+  "title": "CVE-2026-133303 : Mitel MiCollab, Mitel MiCollab XML Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133303",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CISA KEV",
+  "title": "CVE-2026-133311 : Mitel MiCollab, Mitel MiCollab Weak Authentication Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133311",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CISA KEV",
+  "title": "CVE-2026-133275 : Mitel MiCollab, Mitel MiCollab Unrestricted Upload of File with Dangerous Type Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133275",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CISA KEV",
+  "title": "CVE-2026-133324 : Mitel MiCollab, Mitel MiCollab Not Failing Securely Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133324",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CISA KEV",
+  "title": "CVE-2023-25915 : Danfoss AK-SM 800A Series, Danfoss AK-SM 800A Series Improper Input Validation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-25915",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CISA KEV",
+  "title": "CVE-2023-25914 : Danfoss AK-SM 800A Series, Danfoss AK-SM 800A Series Path Traversal Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-25914",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CISA KEV",
+  "title": "CVE-2025-41450 : Danfoss AK-SM 800A Series, Danfoss AK-SM 800A Series Improper Authentication Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-41450",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CISA KEV",
+  "title": "CVE-2026-133469 : Vates Xen Orchestra, Vates Xen Orchestra Improper Validation of Specified Type of Input Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133469",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CISA KEV",
+  "title": "CVE-2026-103406 : Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router, Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-103406",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits Synology (23 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1607/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans MongoDB (23 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1606/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans Mattermost Server (23 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1605/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans Microsoft Office (23 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1604/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Microsoft Edge (23 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1603/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Roundcube Webmail (23 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1602/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans Laravel (23 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1601/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (23 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1600/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+  "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+  "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+  "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+  "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "1Password customer data stolen after employee GitHub account breach",
+  "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+  "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+  "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "Where scientists draw the line on AI agents",
+  "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+  "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Rumors swirling that labs might have cracked Factoring in P",
+  "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+  "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "1Password Security Incident",
+  "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+  "link": "https://scottaaronson.blog/?p=10379",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "IT général",
+  "src": "Ars Technica",
+  "title": "Backblaze explains why it's sharing customer information with advertisers",
+  "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "CrowdStrike et Zscaler veulent un kill switch unifié pour les agents IA",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/crowdstrike-et-zscaler-veulent-un-kill-switch-unifie-pour-les-agents-ia",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "ETIX investit 100 M€ dans ses data centers de proximité en France",
+  "link": "https://www.lemondeinformatique.fr/infrastructure-cloud/etix-investit-100-m-dans-ses-data-centers-de-proximite-en-france",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Black Friday : les cybermenaces dopées à l'IA mettent les distributeurs sous pression",
+  "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/black-friday-les-cybermenaces-dopees-a-l-ia-mettent-les-distributeurs-sous-pression",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Tchad : un atelier de consultation sur l’intégration numérique en Afrique centrale - Tchadinfos",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDFzUjdJR0ZfNkFMSkoyclJhT1BTVFphTVk3dHM4M2w5ejRaMU8tNGkzY1IwdkJJRnlMbkVOVllEVGJIXzVoMVRaeF9ZTjMtRUFOMVBEUjFxYkhNdEhDVEdZTTlmR21mRENfbWxGczFHaTJkNEhtNVhHb0NMTDBfNFozaFJIV1B3NWgwZjcxUHhQVEY1c1lERmF3VmJGZmk1UXZMSlpVbjJYS3lHYXBnd1lWTXQ?oc=5",
+  "t": 1795646466.959614
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "YouthConnekt Africa Summit : 17 ans et ambassadrice du Cameroun à Kigali - Digital Business Africa",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZEprY1dkc0V4SmwyQVN1Y2lOUXRmV1dzTHQ4MEQwWHBmLXNMYkppbEpsT2ZzVXRtdlpMbExmSFhwd3RwSEZYWlU5T2FjNnNRU0RvcEVVQlJnX2VtR1RzUmFuRjBNSjdmVHVXVzUzUE0xTTVUdjh3THRrbVhVdktLU0VGN2JjbmNKbVFwaTZiOTlURlZ4NjNFVlhPTVdyMW13dmRNR21EZHptdw?oc=5",
+  "t": 1795646466.959614
+ }
+]
