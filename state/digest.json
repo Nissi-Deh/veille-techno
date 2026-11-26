@@ -334,5 +334,145 @@
   "title": "Le plan de Wave pour 25 millions d'utilisateurs : comment les faibles frais ont bouleversé les « cartels » de l'argent mobile en Afrique de l'Ouest francophone - TechCabal",
   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iYjdvT3JzdnJQMnpJNDRpR1lVT3pDOWZZSlFFX0FIaHZrbUFJQzRPSHRGMGdMR0lDSVM0ekx0bDV5YjU0UjBzNl9vWDBlY1RrX3cwclJidFpXdGJzTjB2X3A5d29sa29vallNWFVmT1owaHNlTTV2SlhsQQ?oc=5",
   "t": 1795667065.1311464
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+  "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+  "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+  "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+  "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+  "link": "https://huggingface.co/blog/training-swarms",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IA",
+  "src": "Hugging Face",
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+  "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Slow Ubuntu security response times",
+  "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "The New York Times warns photographers not to update Photoshop over AI features",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Tell HN: Lots of Ask HNs again",
+  "link": "https://news.ycombinator.com/item?id=50649864",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+  "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Artex : les cyberattaquants intensifient l'utilisation d'agents IA offensifs",
+  "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/artex-les-cyberattaquants-intensifient-l-utilisation-d-agents-ia-offensifs",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Google imagine une chaîne TV générée par IA où le téléspectateur devient acteur",
+  "link": "https://www.lemondeinformatique.fr/applications-developpement/google-imagine-une-chaine-tv-generee-par-ia-ou-le-telespectateur-devient-acteur",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Dell défend la solidité de ses 132,3 milliards de dollars de commandes de serveurs IA",
+  "link": "https://www.lemondeinformatique.fr/infrastructure-cloud/dell-defend-la-solidite-de-ses-132-3-milliards-de-dollars-de-commandes-de-serveurs-ia",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Agents IA : Anthropic mesure les risques de sortie des sandbox avec Siren",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/agents-ia-anthropic-mesure-les-risques-de-sortie-des-sandbox-avec-siren",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "De faux tests de recrutement ciblent les développeurs .NET via NuGet",
+  "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/de-faux-tests-de-recrutement-ciblent-les-developpeurs-net-via-nuget",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Quantum Act : 7 choses à savoir sur le projet européen pour les technologies quantiques",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/quantum-act-7-choses-a-savoir-sur-le-projet-europeen-pour-les-technologies-quantiques",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "1Password victime d'une intrusion via GitHub",
+  "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/1password-victime-d-une-intrusion-via-github",
+  "t": 1795702061.339707
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Choose France : les data centers au cœur des investissements dans le numérique",
+  "link": "https://www.lemondeinformatique.fr/donnees-ia/choose-france-les-data-centers-au-c-ur-des-investissements-dans-le-numerique",
+  "t": 1795702061.339707
  }
 ]
