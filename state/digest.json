@@ -1,1 +1,191 @@
-[]
+[
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Scrivea adds an AI assistant to classic Outlook, including POP and IMAP accounts",
+  "link": "https://scrivea.fr/",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Microsoft Teams: Voice phishing detection with AI for external calls",
+  "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Show HN: Rusty Teams – A Native Microsoft Teams Client in Rust",
+  "link": "https://github.com/danieldaeschle/rusty-teams",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Threat Modeling Azure MCP: Securing AI-Assisted Infrastructure Operations",
+  "link": "https://techcommunity.microsoft.com/blog/azureinfrastructureblog/threat-modeling-azure-mcp-securing-ai-assisted-infrastructure-operations/4564892",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Pannes",
+  "src": "Outlook/M365 (Hacker News)",
+  "title": "Outlookcache – Read Outlook for Mac mail offline",
+  "link": "https://github.com/stn1slv/outlookcache",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans les produits Elastic (24 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1614/",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans OpenSSL (24 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1613/",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans les produits F5 (24 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1612/",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Traefik (24 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1611/",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Multiples vulnérabilités dans Postfix (24 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1610/",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans Laravel (24 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1609/",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "CERT-FR avis",
+  "title": "Vulnérabilité dans Google Chrome (24 novembre 2026)",
+  "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1608/",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+  "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "BleepingComputer",
+  "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+  "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+  "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cybersécurité",
+  "src": "The Hacker News",
+  "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+  "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Collection of preserved UI style guides",
+  "link": "https://aresluna.org/ui-style-guides/",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Intel One Mono font (2023)",
+  "link": "https://github.com/intel/intel-one-mono",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Nextcloud Office Desktop app",
+  "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "IT général",
+  "src": "Hacker News (top)",
+  "title": "Tell HN: Happy Thanksgiving",
+  "link": "https://news.ycombinator.com/item?id=50655664",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "RGPD : le registre allégé pour les entreprises de moins de 1 000 salariés",
+  "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rgpd-le-registre-allege-pour-les-entreprises-de-moins-de-1-000-salaries",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Le groupement mousquetaires choisi Anthropic pour déployer l'IA dans 500 points de vente",
+  "link": "https://www.lemondeinformatique.fr/infrastructure-cloud/le-groupement-mousquetaires-choisi-anthropic-pour-deployer-l-ia-dans-500-points-de-vente",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "Les lunettes Meta dans le viseur de la justice néerlandaise",
+  "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/les-lunettes-meta-dans-le-viseur-de-la-justice-neerlandaise",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "IT général",
+  "src": "Le Monde Informatique",
+  "title": "SpaceX autorisé à déployer jusqu'à un million de satellites pour des datacenters spatiaux",
+  "link": "https://www.lemondeinformatique.fr/infrastructure-cloud/spacex-autorise-a-deployer-jusqu-a-un-million-de-satellites-pour-des-datacenters-spatiaux",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "ANTIC / cybersécurité CM",
+  "title": "Visa ouvre un bureau de représentation au Cameroun pour accélérer les paiements numériques - Afrique IT News",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNXV4ZWI1OXg2ZFlWN3p2YnA0MURiZ3BkZ21RcWV4dGNJYm9yU3FQTVh5clVlRlV2N0N3RVRfc3hqM0RkWXVtY25QQUdqc0xaOTVYQW4yRmUtY2hHV0ZuQTFMZmdGMlExaDRFQ1dWbWxobHpNVTZVdWpsZTF2bkVwUGJXbjZ0ekRkN1J5MlZBQ1ZkaHBaUkZzb1BQaEdfemhPWEdkTVY0c2xFY3c1YjljX21qbm0teW15dzN4My1LcU5sTVk?oc=5",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Visa ouvre un bureau de représentation au Cameroun pour accélérer les paiements numériques - Afrique IT News",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNXV4ZWI1OXg2ZFlWN3p2YnA0MURiZ3BkZ21RcWV4dGNJYm9yU3FQTVh5clVlRlV2N0N3RVRfc3hqM0RkWXVtY25QQUdqc0xaOTVYQW4yRmUtY2hHV0ZuQTFMZmdGMlExaDRFQ1dWbWxobHpNVTZVdWpsZTF2bkVwUGJXbjZ0ekRkN1J5MlZBQ1ZkaHBaUkZzb1BQaEdfemhPWEdkTVY0c2xFY3c1YjljX21qbm0teW15dzN4My1LcU5sTVk?oc=5",
+  "t": 1795733831.0020995
+ },
+ {
+  "cat": "Cameroun / Afrique",
+  "src": "Numérique Afrique",
+  "title": "Tech : Philomé Robert de France 24 invite les journalistes à surfer sur l’IA pas à s’y opposer - Digital Business Africa",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV09aMmk1dXV6bGdfa3VsYkxlUEUxek9fSXBkb29GZ1d5TlpaM1o5dXg4STlXaUthRER3UXkwdWlINWNyOEhZSExXdDhQejZHRjR2Q0d6SkxDT2dtczlEck5VcHp4d3N3MVZGT2JKRGRzV3UxX2hxYXl1YTZiMG5EbnZOeXN2TU8tenNDMTFoS0pPcWQ2UEY5a0NHd29GRTJXcmI0WmdWWlRMT3lQSS1oSHRyVHR3TEJmY3l6QlZuUjhpdlZG?oc=5",
+  "t": 1795733831.0020995
+ }
+]
